@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+
+/********** FONTS **********/
+
+p {
+	font-size:18px !important;
+}
+
+h1 {
+	font-size:50px;
+	margin:0;
+}
+
+h2 {
+	font-size:17.5px;
+}
+
+h4 {
+	font-size:30px;
+}
+
+/********** CLASS **********/
+
+.content {
+	padding:10px;
+	background-size: 250px, 100%;
+	padding-bottom:20px !important;
+}
+
+.mobile {
+	margin-top:100px;
+}
+
+.mobile-mt5 {
+	margin-top:20px;
+}
+
+.mobile p {
+	font-size:15px !important;
+}
+
+.upper_spacing {
+	margin-top:40px;
+}
+
+p.upper_spacing2  {
+	margin-bottom:0 !important;
+}
+
+.upper_spacing2 {
+	margin-top:125px;
+}
+
+.small-padding {
+	padding:15px 25px;
+}
+
+.small-mt-10 {
+	margin-top:10px;
+}
+
+.mt-5 {
+	margin-top:20px !important;
+}
+
+.margin-auto {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#door_div {
+	margin-top:30px;
+	margin-bottom:0;
+}
+
+#openPre, #dateError, #success { 
+	margin-top: 20px;
+}
+
+.modal-body {
+	padding:0;
+	padding-top:15px;
+}
+
+.checkbox_height {
+	height:25px;
+}
+
+.door {
+	background-size: contain;
+	font-size:20px;
+	line-height: 100px;
+}
+
+.door, .backDoor {
+	width:150px;
+	height:150px;
+}
+
+.bd1, .bd2, .bd3, .bd4 {
+	background-size: cover;
+}
+
+#advent1, #advent2, #advent3, #advent4 {
+	height:145px;
+	background-position: center bottom;
+}
+
+#advent1 {
+	background-image: url("../images/advent-1-small.png");
+}
+
+#advent2 {
+	background-image: url("../images/advent-2-small.png");
+}
+
+#advent3 {
+	background-image: url("../images/advent-3-small.png");
+}
+
+#advent4 {
+	background-image: url("../images/advent-4-small.png");
+}
+
+.small-mb-20 {
+	margin-bottom:20px;
+}
+
+.small-mb-25 {
+	margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
